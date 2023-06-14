@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franciJR
-- 👀 I’m interested in ...web technology
+- 👀 I’m interested in ...Data Science and analytics
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
