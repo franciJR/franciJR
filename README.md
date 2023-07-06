@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @franciJR
+- 👋 Hi, I’m Akhil Francis
 - 👀 I’m interested in ...Data Science and analytics
 - 🌱 I’m currently learning advanced machine learning modeling and analysis
 - 📫 Reach me at  -  francis.akhil02@gmail.com
